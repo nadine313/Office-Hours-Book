@@ -1,0 +1,6 @@
+java
+selenium
+details
+class
+everyday
+except Friday
